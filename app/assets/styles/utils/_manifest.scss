@@ -1,0 +1,10 @@
+//****************************************************************************
+//manifest containing all imports in this directory
+//The utils/ folder gathers all Sass tools and helpers used across the project. 
+//Every function, mixin and placeholder should be put in here.
+//****************************************************************************
+
+
+@import '_mixins.scss';
+@import '_functions.scss';
+@import '_placeholders.scss';
