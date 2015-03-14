@@ -30,7 +30,7 @@ then fire up a webpage and navigate to: http://localhost:5000
 
 ### Creating a new Page
 
-Navigate to home.js
+Navigate to app/controllers/home.js
 ```shell
 
 var express = require('express'),
