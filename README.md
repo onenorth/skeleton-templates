@@ -54,5 +54,5 @@ router.get('/design', function(req, res, next) {	# Step2: Specify view
 ```
 
 From here navigate to app/views and create a new design.hbs file.
-One last step, you'll need to restart the server, to do this simply navigate to your terminal, press control + c, and node app to rerun the server. That's it!
+One last step, you'll need to restart the server, to do this simply navigate to your terminal, press control + c, then we'll need to type 'node app' to rerun the server. That's it!
 
